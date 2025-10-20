@@ -1,6 +1,7 @@
-streamlit
-openai
-langchain
-langchain-openai
-langchain-core
-langchain-community
+streamlit>=1.25.0
+openai>=1.29.0
+langchain>=0.1.0
+langchain-openai>=0.0.19
+langchain-core>=0.0.192
+langchain-community>=0.0.5
+
