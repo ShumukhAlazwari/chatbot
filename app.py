@@ -5,7 +5,7 @@ import streamlit as st
 api_key = ' '
 import streamlit as st
 from langchain_openai import ChatOpenAI
-from langchain.schema import HumanMessage, AIMessage, SystemMessage
+from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
 
 st.markdown("# ChatGPT-like clone")
 
